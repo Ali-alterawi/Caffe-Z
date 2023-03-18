@@ -1,0 +1,76 @@
+/* * {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+} */
+
+body {
+    background-image: url(/cup-coffee-with-grains-around.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+header {
+    background-color: #212529;
+    width: 100%;
+    /* position: fixed; */
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+}
+
+.logo {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+
+}
+
+.navigation a {
+    color: rgb(254, 254, 254);
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
+}
+
+.navigation a:hover {
+    font-weight: 700;
+    color: #860303;
+}
+
+.container {
+    background-color: rgb(33,37,41);
+    color: #ffff;
+}
+
+/* HERO section START */
+.Home {
+
+    font-size: 2rem;
+    color: aliceblue;
+    width: 35%;
+    /* height: 90vh; */
+    margin-left: 10%;
+
+
+}
+
+.container {
+    /* position: relative; */
+}
+
+.infoo {
+    /* position: absolute; */
+    margin-top: 15rem;
+    left: 9%;
+    font-size: 1.5rem;
+}
