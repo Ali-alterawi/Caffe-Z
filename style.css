@@ -7,7 +7,7 @@
 } */
 
 body {
-    background-image: url(/cup-coffee-with-grains-around.jpg);
+    background-image: url(./cup-coffee-with-grains-around.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
