@@ -1,3 +1,6 @@
+function order() {
+  
+
 let user_name = prompt("Please enter your name");
 let gender = prompt("Please enter your gender (male or female):");
 
@@ -23,6 +26,8 @@ let info = [ user_name , gender ,drink, drinkName ];
 for (let i = 0 ; i < info.length ; i++){
   console.log(info[i])
 }
+}
+order() 
 // console.log(info);
 
 // console.log(name + " ordered a " + drink + " "+drinkName+ ".");
