@@ -73,4 +73,16 @@ header {
 
 #details {
     color: white;
+    padding-bottom: 12rem;
+}
+form{
+    text-align: center;
+    background-color: #6c3a31;
+    height: 20rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+#details{
+    background-color: #6c3a31;
 }
